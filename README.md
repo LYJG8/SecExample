@@ -37,5 +37,5 @@ docker-compose up -d
 
 访问: http://localhost:8080
 
-[![asciicast](https://asciinema.org/a/gcuay3zNoRUZ85BTPgjpGukuC.svg)](https://asciinema.org/a/gcuay3zNoRUZ85BTPgjpGukuC)
+[![asciicast](https://asciinema.orga/gcuay3zNoRUZ85BTPgjpGukuC.svg)](https://asciinema.org/a/gcuay3zNoRUZ85BTPgjpGukuC)
 
